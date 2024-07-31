@@ -4,6 +4,8 @@
 
 The VR/AR Medical Training Application aims to revolutionize medical training by leveraging augmented reality (AR) and virtual reality (VR) technologies. This application provides immersive and interactive experiences that enhance learning, skill development, and patient care for healthcare professionals.
 
+This project compiles various medical procedures into AR and VR environments using Unreal Engine and Unity. It includes interactive 3D models, animations, and textures to simulate specific medical scenarios such as CT scans, CPR training, and regular health check-ups.
+
 ## Augmented Reality in Medical Training
 
 Augmented reality offers significant benefits in medical training, including:
@@ -25,7 +27,7 @@ Virtual reality provides realistic simulations for various medical training scen
 
 ## Project Overview
 
-This project compiles various medical procedures into AR and VR environments using Unreal Engine and Unity. It includes interactive 3D models, animations, and textures to simulate specific medical scenarios such as CT scans, CPR training, and regular health check-ups.
+
 
 ## System Configuration
 
@@ -42,8 +44,6 @@ This project compiles various medical procedures into AR and VR environments usi
 - **Unity 2022.3.1f1**: A versatile game development engine with a wide range of tools and features.
 - **Blender 3.5**: A 3D creation suite for modeling, animation, rendering, and more.
 - **Android Studio 4.0 & 4.2 Electric Eel**: IDEs for Android app development.
-
-## Projects
 
 ### Unity Projects
 
