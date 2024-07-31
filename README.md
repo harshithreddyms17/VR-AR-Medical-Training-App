@@ -93,6 +93,3 @@ The VR/AR Medical Training Application aims to transform medical training and pa
 5. Unity Technologies. (2021). [VR Overview](https://docs.unity3d.com/Manual/VROverview.html). Unity Documentation.
 6. Flutter. (2021). [Get Started: Install on Windows](https://docs.flutter.dev/get-started/install/windows). Flutter Documentation.
 
----
-
-Feel free to adjust and expand on any sections to better fit your project's specifics!
